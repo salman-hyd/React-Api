@@ -1,3 +1,13 @@
+# React API Project
+
+This is a React app that fetches data using Axios and displays it in a table.
+
+## Run Locally
+
+bash
+npm install
+npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
